@@ -1,0 +1,25 @@
+{
+  "name": "tercer_reto",
+  "version": "1.0.0",
+  "description": "tercer reto make it real",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres16081990/tercer_reto.git"
+  },
+  "author": "Joaquin Beltran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andres16081990/tercer_reto/issues"
+  },
+  "homepage": "https://github.com/andres16081990/tercer_reto#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "type": "module"
+}
